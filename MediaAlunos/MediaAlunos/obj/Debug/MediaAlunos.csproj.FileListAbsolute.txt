@@ -1,0 +1,12 @@
+C:\Teste Thomson Routers\MediaAlunos\MediaAlunos\bin\Debug\MediaAlunos.exe.config
+C:\Teste Thomson Routers\MediaAlunos\MediaAlunos\bin\Debug\MediaAlunos.exe
+C:\Teste Thomson Routers\MediaAlunos\MediaAlunos\bin\Debug\MediaAlunos.pdb
+C:\Teste Thomson Routers\MediaAlunos\MediaAlunos\obj\Debug\MediaAlunos.csproj.AssemblyReference.cache
+C:\Teste Thomson Routers\MediaAlunos\MediaAlunos\obj\Debug\MediaAlunos.csproj.SuggestedBindingRedirects.cache
+C:\Teste Thomson Routers\MediaAlunos\MediaAlunos\obj\Debug\MediaAlunos.frmInicio.resources
+C:\Teste Thomson Routers\MediaAlunos\MediaAlunos\obj\Debug\MediaAlunos.Properties.Resources.resources
+C:\Teste Thomson Routers\MediaAlunos\MediaAlunos\obj\Debug\MediaAlunos.csproj.GenerateResource.cache
+C:\Teste Thomson Routers\MediaAlunos\MediaAlunos\obj\Debug\MediaAlunos.csproj.CoreCompileInputs.cache
+C:\Teste Thomson Routers\MediaAlunos\MediaAlunos\obj\Debug\MediaAlunos.exe
+C:\Teste Thomson Routers\MediaAlunos\MediaAlunos\obj\Debug\MediaAlunos.pdb
+C:\Teste Thomson Routers\MediaAlunos\MediaAlunos\obj\Debug\MediaAlunos.frmApuracao.resources
